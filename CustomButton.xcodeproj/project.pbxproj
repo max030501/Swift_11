@@ -13,6 +13,7 @@
 		94E96539267A3A8100080C47 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 94E96537267A3A8100080C47 /* Main.storyboard */; };
 		94E9653B267A3A8400080C47 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 94E9653A267A3A8400080C47 /* Assets.xcassets */; };
 		94E9653E267A3A8400080C47 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 94E9653C267A3A8400080C47 /* LaunchScreen.storyboard */; };
+		94E96546267A3BFA00080C47 /* FancyButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94E96545267A3BFA00080C47 /* FancyButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		94E9653A267A3A8400080C47 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		94E9653D267A3A8400080C47 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		94E9653F267A3A8400080C47 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		94E96545267A3BFA00080C47 /* FancyButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FancyButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				94E96533267A3A8100080C47 /* SceneDelegate.swift */,
 				94E96535267A3A8100080C47 /* ViewController.swift */,
 				94E96537267A3A8100080C47 /* Main.storyboard */,
+				94E96545267A3BFA00080C47 /* FancyButton.swift */,
 				94E9653A267A3A8400080C47 /* Assets.xcassets */,
 				94E9653C267A3A8400080C47 /* LaunchScreen.storyboard */,
 				94E9653F267A3A8400080C47 /* Info.plist */,
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				94E96536267A3A8100080C47 /* ViewController.swift in Sources */,
+				94E96546267A3BFA00080C47 /* FancyButton.swift in Sources */,
 				94E96532267A3A8100080C47 /* AppDelegate.swift in Sources */,
 				94E96534267A3A8100080C47 /* SceneDelegate.swift in Sources */,
 			);
